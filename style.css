@@ -1,0 +1,32 @@
+body {
+  background-color: #d5e1ef;
+  margin: 0;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+
+p {
+  color: #6e6c6c;
+}
+
+.qr-code {
+  background-color: white;
+  margin: 150px auto 200px auto;
+  width: 300px;
+  padding: 20px 20px 20px 20px;
+  border-radius: 20px;
+  box-shadow: 5px 10px 8px 10px #d3dee9;
+}
+
+.qr-img {
+  width: 300px;
+  border-radius: 10px;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+  text-decoration: none;
+}
